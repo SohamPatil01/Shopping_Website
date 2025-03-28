@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary-100: red;
+  --spacing-common-mobile-padding: 4vw;
+  --spacing-common-laptop-padding: 8vw;
+  --spacing-common-height: 20rem;
+  --spacing-image-common-width: 20rem;
+}
